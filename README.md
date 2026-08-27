@@ -4,7 +4,7 @@ An AI-powered web application that predicts the risk of heart disease based on u
 
 ## 🌐 Live Demo
 
-👉 [View Live](https://ai-based-heart-disease-risk-predict.vercel.app)
+👉 [View Live](https://ai-based-heart-disease-risk-prediction-system-pxzb3ydpfjm9bljm.streamlit.app/)
 
 ## 📖 Overview
 
